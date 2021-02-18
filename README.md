@@ -7,7 +7,7 @@
 
 ## I’m currently working on with ...
 - [GNU-CS/catlas-frontend](https://github.com/GNU-CS/catlas-frontend)
-- [GNUCS/catlas-backend](https://github.com/GNU-CS/catlas-backend)
+- [GNU-CS/catlas-backend](https://github.com/GNU-CS/catlas-backend)
 - [rmdprep(provisional)](https://github.com/hatchling13/rmdprep)
 
 ## I’m currently learning ...
