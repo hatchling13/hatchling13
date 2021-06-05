@@ -2,6 +2,8 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatchling13)](https://solved.ac/hatchling13)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hatchling13)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatchling13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - Jeong Wook Park / @hatchling13
 - Undergraduate in [GNU, Gyeongsang National Univ.](http://www.gnu.ac.kr/main/) since 2016
 
