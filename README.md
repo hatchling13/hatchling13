@@ -8,8 +8,6 @@
 - Undergraduate in [GNU, Gyeongsang National Univ.](http://www.gnu.ac.kr/main/) since 2016
 
 ## I’m currently working on with ...
-- [GNU-CS/catlas-frontend](https://github.com/GNU-CS/catlas-frontend)
-- [GNU-CS/catlas-backend](https://github.com/GNU-CS/catlas-backend)
 - [rmdprep(provisional)](https://github.com/hatchling13/rmdprep)
 
 ## I’m currently learning ...
