@@ -1,4 +1,4 @@
-# Profile
+# *Try to terminate everything gracefully. Even your life.*
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatchling13)](https://solved.ac/hatchling13)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hatchling13)
