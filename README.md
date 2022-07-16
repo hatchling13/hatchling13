@@ -9,9 +9,9 @@
 
 ## I worked on ...
 - [먹자팟(MEOGJAPAT)](https://github.com/SWP-team12/MEOGJAPAT)
+- [ShareRoutine](https://github.com/GNUCS-2022-Capstone-Design-ShareRoutine/ShareRoutine)
 
 ## I’m currently working on with ...
-- [ShareRoutine](https://github.com/GNUCS-2022-Capstone-Design-ShareRoutine/ShareRoutine)
 - [보따리(Bottari)](https://github.com/hatchling13/Bottari)
 
 ## I’m currently learning ...
