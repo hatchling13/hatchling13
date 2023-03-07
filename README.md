@@ -16,15 +16,17 @@
 - [보따리(Bottari)](https://github.com/hatchling13/Bottari)
 
 ## I’m currently learning ...
-- Required courses of Bachelor of Computer Science
+- [React](https://reactjs.org/)
 - [Rust](https://www.rust-lang.org/)
 
+## I've learnt ...
+- Required courses of Bachelor of Computer Science at Gyeongsang National University
+- [The Joy of React](https://www.joyofreact.com/)
+
 ## I’m currently interested in ...
+- Frontend Engineering
 - UI/UX
-- Functional Programming
-- Game Studies
 - Music Arrangement
-- Motion Graphics
 - And so on!
 
 ## 📫 How to reach me:
