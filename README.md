@@ -21,7 +21,7 @@
 
 ## I've learnt ...
 - Required courses of Bachelor of Computer Science at Gyeongsang National University
-- [The Joy of React](https://www.joyofreact.com/)
+- [The Joy of React](https://www.joyofreact.com/) - [#](https://courses.joshwcomeau.com/certificate/63fc5fa26056b06d089be66a)
 
 ## I’m currently interested in ...
 - Frontend Engineering
