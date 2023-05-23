@@ -1,11 +1,7 @@
 # *Try to terminate everything gracefully. Even your life.*
 ### Jeongwook Park / [@hatchling13](https://github.com/hatchling13)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hatchling13)](https://solved.ac/hatchling13)
-
-[![Anurag's GitHub Stats](https://github-readme-stats-hatchling13.vercel.app/api?username=hatchling13)]((https://github.com/anuraghazra/github-readme-stats))
-
-[![Anurag's Top Langs](https://github-readme-stats-hatchling13.vercel.app/api/top-langs/?username=hatchling13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's Top Langs](https://github-readme-stats-hatchling13.vercel.app/api/top-langs/?username=hatchling13&layout=compact)
 
 ## I worked on ...
 - [먹자팟(MEOGJAPAT)](https://github.com/SWP-team12/MEOGJAPAT)
