@@ -15,6 +15,8 @@
 ## I’m currently learning ...
 - [React](https://reactjs.org/)
 - [Rust](https://www.rust-lang.org/)
+- [Scala](https://www.scala-lang.org/)
+- [ZIO](https://zio.dev/)
 
 ## I've learnt ...
 - Required courses of Bachelor of Computer Science at Gyeongsang National University
