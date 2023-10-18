@@ -2,6 +2,7 @@
 ### Jeongwook Park / [@hatchling13](https://github.com/hatchling13)
 
 ![Anurag's Top Langs](https://github-readme-stats-six-xi-79.vercel.app/api/top-langs/?username=hatchling13&layout=compact)
+[![An image of @hatchling13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hatchling13)](https://holopin.io/@hatchling13)
 
 ## I worked on ...
 - [먹자팟(MEOGJAPAT)](https://github.com/SWP-team12/MEOGJAPAT)
