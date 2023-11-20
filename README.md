@@ -2,7 +2,7 @@
 # *Try to terminate everything gracefully. Even your life.*
 ### Jeongwook Park / [@hatchling13](https://github.com/hatchling13)
 
-![Anurag's Top Langs](https://github-readme-stats-six-xi-79.vercel.app/api/top-langs/?username=hatchling13&layout=compact)
+![Anurag's Top Langs](https://github-readme-stats-hatchling13.vercel.app/api/top-langs/?username=hatchling13&layout=compact)
 
 ## I worked on ...
 - [먹자팟(MEOGJAPAT)](https://github.com/SWP-team12/MEOGJAPAT)
