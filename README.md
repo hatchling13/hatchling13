@@ -1,34 +1,32 @@
-[![An image of @hatchling13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hatchling13)](https://holopin.io/@hatchling13)
 # *Try to terminate everything gracefully. Even your life.*
-### Jeongwook Park / [@hatchling13](https://github.com/hatchling13)
-
-![Anurag's Top Langs](https://github-readme-stats-hatchling13.vercel.app/api/top-langs/?username=hatchling13&layout=compact)
-
-## I worked on ...
-- [먹자팟(MEOGJAPAT)](https://github.com/SWP-team12/MEOGJAPAT)
-- [ShareRoutine](https://github.com/GNUCS-2022-Capstone-Design-ShareRoutine/ShareRoutine)
-- [GNUMAS-Tree(Frontend)](https://github.com/GNUTree/GNUTree-Frontend)
-
-## I’m currently working on with ...
-- [bsky-helper](https://github.com/hatchling13/bsky-helper)
-- [보따리(Bottari)](https://github.com/hatchling13/Bottari)
-
-## I’m currently learning ...
-- [React](https://reactjs.org/)
-- [Rust](https://www.rust-lang.org/)
-- [Scala](https://www.scala-lang.org/)
-- [ZIO](https://zio.dev/)
-
-## I've learnt ...
-- Required courses of Bachelor of Computer Science at Gyeongsang National University
-- [The Joy of React](https://www.joyofreact.com/) - [#](https://courses.joshwcomeau.com/certificate/63fc5fa26056b06d089be66a)
-- [Just JavaScript](https://justjavascript.com/)
+[![An image of @hatchling13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hatchling13)](https://holopin.io/@hatchling13)
+### Jung Wook Park / [@hatchling13](https://github.com/hatchling13)
 
 ## I’m currently interested in ...
+### Languages
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReScript](https://rescript-lang.org/)
+- [Rust](https://www.rust-lang.org/)
+- [Scala](https://www.scala-lang.org/)
+
+### Techs
+- [React](https://reactjs.org/) and its ecosystem
+- [Solid](https://www.solidjs.com/)
+- [ZIO](https://zio.dev/)
+- [And much more!](https://github.com/hatchling13?tab=stars)
+
+### Etc.
 - Frontend Engineering
 - UI/UX
+- Functional Programming
+- Gastronomy
 - Music Arrangement
 - And so on!
+
+## I've learnt ...
+- Required courses of Bachelor of [Computer Science at Gyeongsang National University](https://www.gnu.ac.kr/cs/main.do)
+- [The Joy of React](https://www.joyofreact.com/) - [#](https://courses.joshwcomeau.com/certificate/63fc5fa26056b06d089be66a)
+- [Just JavaScript](https://justjavascript.com/)
 
 ## 📫 How to reach me:
 - Email - hatchling3713@gmail.com
